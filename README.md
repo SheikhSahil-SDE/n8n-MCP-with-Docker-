@@ -44,10 +44,10 @@ Implementing least privilege access principles is essential for securing secrets
 
 To ensure the highest level of security, Jeremy recommends several best practices:
 
-Always encrypt Terraform state files to protect sensitive data.
-Use version control but never commit secrets to repositories.
-Regularly rotate secrets to minimize the risk of unauthorized access.
-Enable audit logging to monitor and track all interactions with secrets.
-These practices collectively form a robust framework for securing secrets in Terraform, helping organizations maintain compliance and protect sensitive information.
+Always encrypt Terraform state files to protect sensitive data.<p>
+Use version control but never commit secrets to repositories.<p>
+Regularly rotate secrets to minimize the risk of unauthorized access.<p>
+Enable audit logging to monitor and track all interactions with secrets.<p>
+These practices collectively form a robust framework for securing secrets in Terraform, helping organizations maintain compliance and protect sensitive information.<p>
 
 

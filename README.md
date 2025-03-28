@@ -1,3 +1,5 @@
+## YouTube Link : https://www.youtube.com/watch?v=1QR-fz-JCA4
+
 ## Highlights
   🔐 Avoid Plain-Text Secrets: Never store secrets in plaintext files; always use secure methods.
   

@@ -52,7 +52,7 @@ This principle applies equally to both environment variables and HashiCorp Vault
 
 **Best Practices for Terraform Security**
 
-To ensure the highest level of security, Jeremy recommends several best practices:
+To ensure the highest level of security, Jeremy recommends several best practices:<p>
 Always encrypt Terraform state files to protect sensitive data.<p>
 Use version control but never commit secrets to repositories.<p>
 Regularly rotate secrets to minimize the risk of unauthorized access.<p>

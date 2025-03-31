@@ -19,7 +19,6 @@
 
 
 **Best Practices for Terraform Security**
-
 To ensure the highest level of security, Jeremy recommends several best practices:<p>
 Always encrypt Terraform state files to protect sensitive data.<p>
 Use version control but never commit secrets to repositories.<p>

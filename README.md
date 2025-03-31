@@ -13,7 +13,7 @@
   
   🛡️ Encrypt State Files: Always protect Terraform state files to safeguard sensitive information.
   
-  📝 Version Control Best Practices: Utilize version control while ensuring secrets are never committed.
+  📝 Version Control Best Practices: Utilize version control while ensuring secrets are never committed.<p>
 
 
 

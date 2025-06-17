@@ -15,6 +15,7 @@ security practices for managing Terraform state files and secrets effectively.
 ### Highlights
 
 - 📝 **Good**: Using variables and `.tfvars` files for secret storage.
+- 
 - 🖥️ **Better**: Storing secrets via environment variables for enhanced security.
 - 🔐 **Best**: Integrating HashiCorp Vault for centralized and secure secret management.
 - 🚀 **Centralized Management**: HashiCorp Vault enables efficient, shared secret management.

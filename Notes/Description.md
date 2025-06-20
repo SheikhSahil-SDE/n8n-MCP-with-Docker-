@@ -70,8 +70,8 @@ This principle applies equally to both environment variables and HashiCorp Vault
 ---
 
 
-
-<a href=" https://docs.google.com/spreadsheets/d/1j6eL9gv0lOQsLeY741A0WclamojNGQcsjCqkmXUjOwA/edit?gid=0#gid=0">n8n Templates</a>
-
 This video provides a comprehensive guide to managing secrets in Terraform, emphasizing the importance of progressively enhancing security measures. From basic variable files to advanced HashiCorp Vault integration, 
 viewers gain valuable insights into securing infrastructure code. By adopting the recommended practices, organizations can significantly reduce the risk of data breaches and ensure compliance with industry standards.
+
+
+[n8n Templates](https://docs.google.com/spreadsheets/d/1j6eL9gv0lOQsLeY741A0WclamojNGQcsjCqkmXUjOwA/edit?gid=0#gid=0 "The best search engine for privacy") 

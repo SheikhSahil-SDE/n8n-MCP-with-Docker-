@@ -1,19 +1,19 @@
 ## YouTube Link : https://www.youtube.com/watch?v=1QR-fz-JCA4
 
 ## Highlights
-  🔐 Avoid Plain-Text Secrets: Never store secrets in plaintext files; always use secure methods.
+-  🔐 Avoid Plain-Text Secrets: Never store secrets in plaintext files; always use secure methods.
   
-  📝 Variables and .tfvars Files: Basic yet functional, allowing Terraform to retrieve secrets from a file.
+-  📝 Variables and .tfvars Files: Basic yet functional, allowing Terraform to retrieve secrets from a file.
   
-  💻 Environment Variables: Enhance security by storing secrets in environment variables, preventing accidental commits to version control.
+-  💻 Environment Variables: Enhance security by storing secrets in environment variables, preventing accidental commits to version control.
   
-  🔒 HashiCorp Vault Integration: The most secure method, offering centralized secret management with robust features.
+-  🔒 HashiCorp Vault Integration: The most secure method, offering centralized secret management with robust features.
   
-  🔄 Rotate Secrets Regularly: Essential practice to maintain security and prevent unauthorized access.
+-  🔄 Rotate Secrets Regularly: Essential practice to maintain security and prevent unauthorized access.
   
-  🛡️ Encrypt State Files: Always protect Terraform state files to safeguard sensitive information.
+-  🛡️ Encrypt State Files: Always protect Terraform state files to safeguard sensitive information.
   
-  📝 Version Control Best Practices: Utilize version control while ensuring secrets are never committed.<p>
+-  📝 Version Control Best Practices: Utilize version control while ensuring secrets are never committed.<p>
 
 
 

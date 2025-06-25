@@ -50,10 +50,10 @@ security practices for managing Terraform state files and secrets effectively.
 
 **Centralized Secrets Management**
 
-HashiCorp Vault's integration with Terraform enables centralized management of secrets, a critical feature for teams working collaboratively. 
-By centralizing secrets in a single location, organizations can enforce strict access controls, 
-ensuring that only authorized personnel can retrieve sensitive data. This centralized approach also simplifies auditing and compliance efforts, 
-as all interactions with secrets are logged and monitored.
+- HashiCorp Vault's integration with Terraform enables centralized management of secrets, a critical feature for teams working collaboratively. 
+  By centralizing secrets in a single location, organizations can enforce strict access controls, 
+  ensuring that only authorized personnel can retrieve sensitive data. This centralized approach also simplifies auditing and compliance efforts, 
+  as all interactions with secrets are logged and monitored.
 
 **Audit Logging and Secret Rotation**
 
